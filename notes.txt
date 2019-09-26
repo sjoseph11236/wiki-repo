@@ -1,0 +1,6 @@
+
+
+//How does the css get added to layou.js if they are differnt folders?
+// the css link tag was in the layout html code so when the layout file is called it has a link through the regualr css link tag that goes to public and then to the style.css
+// Can static work with js files?
+// No because it manipulating content that wil be presented on the webpage . static is for content that are static not cahnging to be inject or used dynamically
